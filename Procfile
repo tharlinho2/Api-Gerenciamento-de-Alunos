@@ -1,1 +1,1 @@
-Start: dotnet run
+web: dotnet run
