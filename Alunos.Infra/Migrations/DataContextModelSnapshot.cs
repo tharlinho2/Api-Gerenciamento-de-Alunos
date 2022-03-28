@@ -25,36 +25,31 @@ namespace Alunos.Infra.Migrations
             modelBuilder.Entity("Alunos.Domain.Alunos.Entities.Aluno", b =>
                 {
                     b.Property<Guid?>("Id")
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("uuid");
 
                     b.Property<bool>("Ativo")
                         .HasColumnType("boolean");
 
-                    b.Property<string>("CPF")
+                    b.Property<string>("Cpf")
                         .IsRequired()
-                        .HasColumnType("varchar");
-
-                    b.Property<DateTime>("CadastradoEm")
-                        .HasColumnType("date");
-
-                    b.Property<DateTime>("DataNascimento")
-                        .HasColumnType("date");
+                        .HasColumnType("text");
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasColumnType("varchar");
+                        .HasColumnType("text");
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("varchar");
+                        .HasColumnType("text");
 
-                    b.Property<string>("RA")
+                    b.Property<string>("Ra")
                         .IsRequired()
-                        .HasColumnType("varchar");
+                        .HasColumnType("text");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Aluno", (string)null);
+                    b.ToTable("Alunos");
                 });
 #pragma warning restore 612, 618
         }
