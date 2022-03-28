@@ -10,3 +10,15 @@ D:\Api Gerenciamento de Alunos\Alunos.Domain\obj\Debug\net6.0\Alunos.Domain.dll
 D:\Api Gerenciamento de Alunos\Alunos.Domain\obj\Debug\net6.0\ref\Alunos.Domain.dll
 D:\Api Gerenciamento de Alunos\Alunos.Domain\obj\Debug\net6.0\Alunos.Domain.pdb
 D:\Api Gerenciamento de Alunos\Alunos.Domain\obj\Debug\net6.0\Alunos.Domain.csproj.AssemblyReference.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\bin\Debug\net6.0\Alunos.Domain.deps.json
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\bin\Debug\net6.0\Alunos.Domain.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\bin\Debug\net6.0\ref\Alunos.Domain.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\bin\Debug\net6.0\Alunos.Domain.pdb
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\obj\Debug\net6.0\Alunos.Domain.csproj.AssemblyReference.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\obj\Debug\net6.0\Alunos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\obj\Debug\net6.0\Alunos.Domain.AssemblyInfoInputs.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\obj\Debug\net6.0\Alunos.Domain.AssemblyInfo.cs
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\obj\Debug\net6.0\Alunos.Domain.csproj.CoreCompileInputs.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\obj\Debug\net6.0\Alunos.Domain.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\obj\Debug\net6.0\ref\Alunos.Domain.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Domain\obj\Debug\net6.0\Alunos.Domain.pdb

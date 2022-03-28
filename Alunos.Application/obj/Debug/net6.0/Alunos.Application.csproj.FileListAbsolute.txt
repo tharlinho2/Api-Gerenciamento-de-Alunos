@@ -15,3 +15,20 @@ D:\Api Gerenciamento de Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Applic
 D:\Api Gerenciamento de Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Application.dll
 D:\Api Gerenciamento de Alunos\Alunos.Application\obj\Debug\net6.0\ref\Alunos.Application.dll
 D:\Api Gerenciamento de Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Application.pdb
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\bin\Debug\net6.0\Alunos.Application.deps.json
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\bin\Debug\net6.0\Alunos.Application.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\bin\Debug\net6.0\ref\Alunos.Application.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\bin\Debug\net6.0\Alunos.Application.pdb
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\bin\Debug\net6.0\Alunos.Domain.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\bin\Debug\net6.0\Alunos.Infra.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\bin\Debug\net6.0\Alunos.Domain.pdb
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\bin\Debug\net6.0\Alunos.Infra.pdb
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Application.csproj.AssemblyReference.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Application.AssemblyInfoInputs.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Application.AssemblyInfo.cs
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Application.csproj.CoreCompileInputs.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Application.csproj.CopyComplete
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Application.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\obj\Debug\net6.0\ref\Alunos.Application.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Application\obj\Debug\net6.0\Alunos.Application.pdb

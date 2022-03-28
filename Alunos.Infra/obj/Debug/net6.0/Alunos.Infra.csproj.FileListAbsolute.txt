@@ -15,3 +15,20 @@ D:\Api Gerenciamento de Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.dll
 D:\Api Gerenciamento de Alunos\Alunos.Infra\obj\Debug\net6.0\ref\Alunos.Infra.dll
 D:\Api Gerenciamento de Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.pdb
 D:\Api Gerenciamento de Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.genruntimeconfig.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\bin\Debug\net6.0\Alunos.Infra.deps.json
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\bin\Debug\net6.0\Alunos.Infra.runtimeconfig.json
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\bin\Debug\net6.0\Alunos.Infra.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\bin\Debug\net6.0\ref\Alunos.Infra.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\bin\Debug\net6.0\Alunos.Infra.pdb
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\bin\Debug\net6.0\Alunos.Domain.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\bin\Debug\net6.0\Alunos.Domain.pdb
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.csproj.AssemblyReference.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.AssemblyInfoInputs.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.AssemblyInfo.cs
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.csproj.CoreCompileInputs.cache
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.csproj.CopyComplete
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\obj\Debug\net6.0\ref\Alunos.Infra.dll
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.pdb
+D:\Api-Alunos\Api-Gerenciamento-de-Alunos\Alunos.Infra\obj\Debug\net6.0\Alunos.Infra.genruntimeconfig.cache
