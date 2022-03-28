@@ -41,7 +41,9 @@ namespace Alunos.Api.Controllers.Aluno
         [HttpGet]
         public async Task<ActionResult> ObterAlunos()
         {
-            var alunos = _alunoRepository.ObterTodos();
+            var alunos = _alunoRepository.ObterTodos().ToList();
+            if (alunos.Count == 0)
+                return BadRequest("Nenhum Aluno encontrado");
 
             return Ok(alunos);
         }
