@@ -1,0 +1,14 @@
+﻿using Alunos.Domain.Alunos.Interface;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Alunos.Infra.Uow
+{
+    public class UnitOfWork
+    {
+       
+    }
+}
