@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Api Gerenciamento de Alunos\\Alunos.Tests\\Alunos.Tests.csproj": {}
+    "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Tests\\Alunos.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Api Gerenciamento de Alunos\\Alunos.Application\\Alunos.Application.csproj": {
+    "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Application\\Alunos.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api Gerenciamento de Alunos\\Alunos.Application\\Alunos.Application.csproj",
+        "projectUniqueName": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Application\\Alunos.Application.csproj",
         "projectName": "Alunos.Application",
-        "projectPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Application\\Alunos.Application.csproj",
+        "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Application\\Alunos.Application.csproj",
         "packagesPath": "C:\\Users\\Tharles\\.nuget\\packages\\",
-        "outputPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Application\\obj\\",
+        "outputPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tharles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj": {
-                "projectPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj"
+              "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj": {
+                "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj"
               },
-              "D:\\Api Gerenciamento de Alunos\\Alunos.Infra\\Alunos.Infra.csproj": {
-                "projectPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Infra\\Alunos.Infra.csproj"
+              "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Infra\\Alunos.Infra.csproj": {
+                "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Infra\\Alunos.Infra.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj": {
+    "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj",
+        "projectUniqueName": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj",
         "projectName": "Alunos.Domain",
-        "projectPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj",
+        "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj",
         "packagesPath": "C:\\Users\\Tharles\\.nuget\\packages\\",
-        "outputPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\obj\\",
+        "outputPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tharles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -147,14 +147,14 @@
         }
       }
     },
-    "D:\\Api Gerenciamento de Alunos\\Alunos.Infra\\Alunos.Infra.csproj": {
+    "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Infra\\Alunos.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api Gerenciamento de Alunos\\Alunos.Infra\\Alunos.Infra.csproj",
+        "projectUniqueName": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Infra\\Alunos.Infra.csproj",
         "projectName": "Alunos.Infra",
-        "projectPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Infra\\Alunos.Infra.csproj",
+        "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Infra\\Alunos.Infra.csproj",
         "packagesPath": "C:\\Users\\Tharles\\.nuget\\packages\\",
-        "outputPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Infra\\obj\\",
+        "outputPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tharles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +171,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj": {
-                "projectPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj"
+              "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj": {
+                "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "D:\\Api Gerenciamento de Alunos\\Alunos.Tests\\Alunos.Tests.csproj": {
+    "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Tests\\Alunos.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api Gerenciamento de Alunos\\Alunos.Tests\\Alunos.Tests.csproj",
+        "projectUniqueName": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Tests\\Alunos.Tests.csproj",
         "projectName": "Alunos.Tests",
-        "projectPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Tests\\Alunos.Tests.csproj",
+        "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Tests\\Alunos.Tests.csproj",
         "packagesPath": "C:\\Users\\Tharles\\.nuget\\packages\\",
-        "outputPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Tests\\obj\\",
+        "outputPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tharles\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,11 +255,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Api Gerenciamento de Alunos\\Alunos.Application\\Alunos.Application.csproj": {
-                "projectPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Application\\Alunos.Application.csproj"
+              "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Application\\Alunos.Application.csproj": {
+                "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Application\\Alunos.Application.csproj"
               },
-              "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj": {
-                "projectPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj"
+              "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj": {
+                "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj"
               }
             }
           }

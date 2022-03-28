@@ -68,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj",
+      "projectUniqueName": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj",
       "projectName": "Alunos.Domain",
-      "projectPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\Alunos.Domain.csproj",
+      "projectPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\Alunos.Domain.csproj",
       "packagesPath": "C:\\Users\\Tharles\\.nuget\\packages\\",
-      "outputPath": "D:\\Api Gerenciamento de Alunos\\Alunos.Domain\\obj\\",
+      "outputPath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tharles\\AppData\\Roaming\\NuGet\\NuGet.Config",

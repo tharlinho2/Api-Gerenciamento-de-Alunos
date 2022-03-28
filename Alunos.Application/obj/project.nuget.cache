@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/qGqAgNPdB5I3+czuddQVu48GsxosZ+Dz7VeEf2nyRrX/ym6M/V2GZ33pd1xoCsN+YEZ5w636GGdf93GVeWqEg==",
+  "dgSpecHash": "+AfMdbSoIHLri/E/o5R1ZDzLIAuSEo8tJdYjkyHWhL3mCw+MKa5pwE644x2Z8G4oCXlSAxoIKpnx++CgYkyFQA==",
   "success": true,
-  "projectFilePath": "D:\\Api Gerenciamento de Alunos\\Alunos.Application\\Alunos.Application.csproj",
+  "projectFilePath": "D:\\Api-Alunos\\Api-Gerenciamento-de-Alunos\\Alunos.Application\\Alunos.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tharles\\.nuget\\packages\\architect.ambientcontexts\\1.1.1\\architect.ambientcontexts.1.1.1.nupkg.sha512",
     "C:\\Users\\Tharles\\.nuget\\packages\\architect.identities\\1.0.2\\architect.identities.1.0.2.nupkg.sha512",
