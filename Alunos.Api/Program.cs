@@ -5,6 +5,17 @@ using Sample.MediatR.WebApi.Core.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("MyAllowSpecificOrigins",
+                          builder =>
+                          {
+                              builder.AllowAnyOrigin()
+                                     .AllowAnyHeader()
+                                     .AllowAnyMethod();
+                          });
+});
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -15,7 +26,7 @@ builder.Services.AddMvc();
 
 
 builder.Services.AddEntityFrameworkNpgsql()
-    .AddDbContext<DataContext>(options => 
+    .AddDbContext<DataContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("ConnectionString")));
 
 builder.Services.AddMediatRApi();
@@ -31,6 +42,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("MyAllowSpecificOrigins");
 
 app.UseAuthorization();
 

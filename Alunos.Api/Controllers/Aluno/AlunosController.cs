@@ -23,7 +23,12 @@ namespace Alunos.Api.Controllers.Aluno
             _alunoRepository = aluno;
         }
 
-        [HttpPost]
+        /// <summary>
+        /// Método responsável por cadastrar um novo aluno
+        /// </summary>
+        /// <param name="command"></param>
+        /// <returns></returns>
+        [HttpPost("cadastrar")]
         public async Task<IActionResult> CadastrarAluno([FromBody] CadastrarAlunoCommand command)
         {
             if (command == null)
@@ -38,17 +43,24 @@ namespace Alunos.Api.Controllers.Aluno
             return Ok(result);
         }
 
+        /// <summary>
+        /// Método responsável por recuperar lista de alunos 
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public async Task<ActionResult> ObterAlunos()
         {
             var alunos = _alunoRepository.ObterTodos().ToList();
-            if (alunos.Count == 0)
-                return BadRequest("Nenhum Aluno encontrado");
-
+            
             return Ok(alunos);
         }
 
-        [HttpPut]
+        /// <summary>
+        /// Método responsável por atualizar aluno por id
+        /// </summary>
+        /// <param name="command"></param>
+        /// <returns></returns>
+        [HttpPut("atualizar")]
         public async Task<ActionResult> AtualizarAlunoPorId(AtualizarAlunoPorIdCommand command)
         {
             if (command == null)
@@ -62,7 +74,12 @@ namespace Alunos.Api.Controllers.Aluno
             return Ok(aluno);
         }
 
-        [HttpDelete]
+        /// <summary>
+        /// Método responsável por deletar aluno por id
+        /// </summary>
+        /// <param name="command"></param>
+        /// <returns></returns>
+        [HttpDelete("deletar")]
         public async Task<ActionResult> DeletarAlunoPorId(DeletarAlunoPorIdCommand command)
         {
             if(command == null)
